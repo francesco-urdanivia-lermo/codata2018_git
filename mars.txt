@@ -1,10 +1,10 @@
 Pro:
-- Grow potatoes
+- grow potatoes
 - not very humid
 - beautiful landscape
 
 
 Con:
-- Too red
+- too red
 - two moons
-- no animals, only robot
+- no animals, only robots
